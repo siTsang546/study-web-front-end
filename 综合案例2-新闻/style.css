@@ -2,31 +2,39 @@ div {
     text-align: center;
     font-size: 5px;
 }
+
 h1 {
     text-align: center;
     font-weight: 400;
 }
+
 img {
     margin: 0px auto;
     padding: auto;
 }
+
 a {
     text-decoration: none;
 }
+
 p {
     /* 首行缩进两个字符 */
     text-indent: 2em;
 }
+
 .gray {
     color: gray;
 }
+
 .search {
     color: #666;
     width: 160px;
 }
+
 .btn {
     font-weight: 600;
 }
+
 .footer {
     font-size: 12px;
     text-align: center;
