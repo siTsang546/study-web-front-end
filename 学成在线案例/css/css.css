@@ -1,0 +1,74 @@
+* {
+    font-family: "微软雅黑";
+    margin: 0;
+    padding: 0;
+}
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    height: 42px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.lf {
+    float: left;
+}
+.rf {
+    float: right;
+}
+.logo {
+    width: 198px;
+    height: 42px;
+}
+.nav {
+    margin-left: 60px;
+}
+.nav li {
+    float: left;
+    margin: 0 15px;
+}
+.nav li a {
+    display: block;
+    height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    line-height: 42px;
+    color: #050505;
+}
+.nav li a:hover {
+    border-bottom: solid 2px #00a4ff;
+}
+.search {
+    margin-left: 50px;
+}
+.search input {
+    width: 361px;
+    height: 40px;
+    border: solid 1px #00a4ff;
+    border-right: none;
+    color: #bfbfbf;
+    font-size: 14px;
+    text-indent: 1em;
+}
+.search button {
+    width: 50px;
+    height: 42px;
+    border: none;
+    background-color: #00a4ff;
+    background: url(../img/btn.png);
+}
+.user {
+    margin-right: 30px;
+    line-height: 42px;
+    height: 42px;
+    font-size: 14px;
+    color: #666;
+}
