@@ -66,9 +66,17 @@ a {
     background: url(../img/btn.png);
 }
 .user {
+    position: relative;
+    top: 0;
+    left: 0;
     margin-right: 30px;
     line-height: 42px;
     height: 42px;
     font-size: 14px;
     color: #666;
+}
+.user img  {
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
 }
